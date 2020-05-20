@@ -1,18 +1,25 @@
 ---
 ---
-
+$section-headings-color: #000 !default;
+$header-bg-color: #78BE21 !default;
+$header-bg-color-secondary: #003865 !default;
 @import "{{ site.theme }}";
 
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    font-weight: normal;
-    color: #000;
-}
-
 .page-header {
-    color: #fff;
-    text-align: center;
-    background-color: #159957;
-    background-image: linear-gradient(145deg, #003865, #003865 60%, #78be21);
+  color: $header-heading-color;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color-secondary 60%,  $header-bg-color);
+
+  @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
 }
