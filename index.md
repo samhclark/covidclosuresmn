@@ -11,14 +11,13 @@
 * [Cabin Coffee Co. - Alberta Lea](https://www.kimt.com/content/news/Two-businesses-closing-in-Albert-Lea-569463741.html)
   * Note: Other Cabin Coffee locations remain open
 * [The Cheese Cave - Faribault](https://www.southernminn.com/faribault_daily_news/news/article_72477ae6-85e5-53e0-a6be-309dba729101.html)
+* [Cleveland Wok - Highland Park](https://www.twincities.com/2020/05/14/cleveland-wok-closed-permanently-st-paul-restaurant/)
 * [Daube's Bakery - Rochester](https://kttc.com/2020/04/16/daubes-bakery-for-sale/)
-* [Dulceria Bakery - South Minneapolis](https://dulceriabakery.com/)
 * [The Egg & I - LynLake](http://www.citypages.com/restaurants/minneapoliss-egg-and-i-has-closed-for-good/569513071)
   * Note: "St. Paul's "Big Egg" will remain open"
 * [El Burrito - South Minneapolis](http://elburritompls.com/)
   * Note: The St Paul location, *El Burrito Mercado*, remains open.
 * [Flagsmash - All](https://twincities.eater.com/2020/2/25/21152748/flagsmash-closing-graze-la-dona-cervaceria-minneapolis)
-* [Fuddrucker's - Bloomington](https://www.yelp.com/biz/fuddruckers-bloomington)
 * [Ginger Hop - St. Anthony Main](https://www.gingerhop.com/ginger-hop-honey-closing-march-28th-2020/)
 * [Godfather's Pizza - Alberta Lea](https://www.kimt.com/content/news/Godfathers-Pizza-closed-in-Albert-Lea-569383881.html)
 * [The Grind - Bloomington](https://www.yelp.com/biz/the-grind-bloomington)
@@ -27,7 +26,6 @@
   * Note: The Minneapolis location remains open.
 * [Jo Jo's Rise & Wine - Burnsville](https://www.jojosriseandwine.com/)
 * [Marvel Bar - North Loop](http://www.marvelbar.com/)
-* [Mission American Kitchen and Bar](https://twincities.eater.com/2020/3/9/21172024/mission-american-kitchen-closed)
 * [Moose & Sadie's - North Loop](https://twincities.eater.com/2020/5/20/21264735/moose-sadies-minneapolis-closed-north-loop)
 * [Muddy Waters - LynLake](https://twincities.eater.com/2020/5/4/21246066/muddy-waters-minneapolis-uptown-closed)
 * [NE Arcade - Northeast](https://twincities.eater.com/2020/4/27/21238398/ne-arcade-domo-ramen-northeast-closed)
@@ -45,9 +43,11 @@
 
 # Contributing
 
-This list is incomplete, but I will try to keep it up-to-date by watching the news. If you see something that is missing, please send it to me!
+This list is incomplete, but I will try my best to keep it up-to-date. If you see something that is missing, please send it to me!
 
 You can reach me:
 
-* via e-mail: covidclosuresmn@example.com
-* via Reddit: [u/covidclosuresmn](https://example.com)
+* via e-mail: covidclosuresmn@protonmail.com
+* via Reddit: [u/covidclosuresmn](https://reddit.com/user/covidclosuresmn/)
+
+Please include the name of the business and a publicly accessible source that has a statement that the permanent closure was related to COVID-19.
