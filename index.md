@@ -1,6 +1,6 @@
 ---
 title: Home
-lastmodified: '12:58am on Tuesday, May 21, 2020'
+lastmodified: '1:06am on Tuesday, May 21, 2020'
 ---
 # List of Bars and Restaurants
 
@@ -51,7 +51,7 @@ This list is incomplete, but I will try my best to keep it up-to-date. If you se
 
 You can reach me:
 
-* via e-mail: covidclosuresmn@protonmail.com
+* via e-mail: [covidclosuresmn@protonmail.com](mailto:covidclosuresmn@protonmail.com)
 * via Reddit: [u/covidclosuresmn](https://reddit.com/user/covidclosuresmn/)
 
 Please include the name of the business and a publicly accessible source that has a statement that the permanent closure was related to COVID-19.
