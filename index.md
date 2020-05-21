@@ -1,6 +1,6 @@
 ---
 title: Home
-lastmodified: '1:06am on Tuesday, May 21, 2020'
+lastmodified: '12:10pm on Thursday, May 21, 2020'
 ---
 # List of Bars and Restaurants
 
@@ -42,16 +42,26 @@ lastmodified: '1:06am on Tuesday, May 21, 2020'
 * [Vivo Kitchen - Apple Valley](https://vivomn.com/)
 
 # List of Retailers
-* [Pier 1 Imports - All](https://www.npr.org/sections/coronavirus-live-updates/2020/05/19/858710906/home-decor-retailer-pier-1-looks-to-close-for-good)
-  * Note: Nationwide, not just Minnesota
+
+* Empty
+
+# Other
+
+* Empty
+
+# Criteria
+
+Why are some businesses listed, but others are not? 
+If the business closed before March 17, 2020, then it probably won't be on this list. Gov. Walz [first executive order regarding COVID-19 (PDF)](https://mn.gov/governor/assets/2020_03_16_EO_20_04_Bars_Restaurants_tcm1055-423380.pdf) went into effect on March 17 at 5:00pm. For example, [Dulceria Bakery](https://dulceriabakery.com/) closed on February 22. The closure notice makes no mention of COVID and it was before businesses were impacted by any executive order. 
+
+There can be exceptions to this rule, however. Take Cleveland Wok. Cleveland Wok closed in February **2019** due to a fire, however it was going through a remodel and scheduled to open in March, but because of the executive order it did not reopen. Then in May, the owner announced that it will be permanently closed. This restaurant *would have reopened* had it not been for the COVID-19 outbreak, so its permanent closure can be attributed to the outbreak. (It helps that, in the [linked article above](https://www.twincities.com/2020/05/14/cleveland-wok-closed-permanently-st-paul-restaurant/), the owner is quoted placing some blame on COVID-19.)
 
 # Contributing
 
-This list is incomplete, but I will try my best to keep it up-to-date. If you see something that is missing, please send it to me!
+This list is incomplete, but I will try my best to keep it up-to-date. If you see something that is missing or incorrect, please let me know!
 
 You can reach me:
 
 * via e-mail: [covidclosuresmn@protonmail.com](mailto:covidclosuresmn@protonmail.com)
 * via Reddit: [u/covidclosuresmn](https://reddit.com/user/covidclosuresmn/)
 
-Please include the name of the business and a publicly accessible source that has a statement that the permanent closure was related to COVID-19.
