@@ -1,3 +1,7 @@
+---
+title: Home
+lastmodified: '12:58am on Tuesday, May 21, 2020'
+---
 # List of Bars and Restaurants
 
 * [4 Bells - Loring Park](https://twincities.eater.com/2020/5/1/21244132/4-bells-minneapolis-closed-loring-park)
