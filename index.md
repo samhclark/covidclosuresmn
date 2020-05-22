@@ -1,6 +1,6 @@
 ---
 title: Home
-lastmodified: '12:10pm on Thursday, May 21, 2020'
+lastmodified: '12:19pm on Friday, May 22, 2020'
 ---
 # List of Bars and Restaurants
 
