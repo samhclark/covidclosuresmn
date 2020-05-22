@@ -1,6 +1,6 @@
 ---
 title: Home
-lastmodified: '12:19pm on Friday, May 22, 2020'
+lastmodified: '4:31pm on Friday, May 22, 2020'
 ---
 # List of Bars and Restaurants
 
@@ -33,9 +33,10 @@ lastmodified: '12:19pm on Friday, May 22, 2020'
 * [Muddy Waters - LynLake](https://twincities.eater.com/2020/5/4/21246066/muddy-waters-minneapolis-uptown-closed)
 * [NE Arcade - Northeast](https://twincities.eater.com/2020/4/27/21238398/ne-arcade-domo-ramen-northeast-closed)
 * [Northgate Cafe and Catering - Virginia](https://www.facebook.com/permalink.php?story_fbid=2846483798732663&id=173727492674987&__tn__=-R)
-* [Sole Mio Ristorante - Woodbury](https://solemiomn.com/)
+* [Patrick's Bakery & Cafe - Maple Grove](https://patricksbakerycafe.com/locations/arborlakes/)
 * [Pazzaluna - Downtown St. Paul](https://twincities.eater.com/2020/5/18/21261806/pazzaluna-st-paul-morrissey-hospitality-grill-closed)
 * [Sleep V's - Northeast](https://twincities.eater.com/2020/4/6/21209048/sleepy-vs-closed-northeast-minneapolis)
+* [Sole Mio Ristorante - Woodbury](https://solemiomn.com/)
 * [The Tomato Vine - Eden Prarie](https://www.facebook.com/TheTomatoVine/photos/a.112938365532339/1511452742347554/)
 * [Tonic - Rochester](https://www.medcitybeat.com/news-blog/2020/tonic-wont-reopen)
 * [Vivo Kitchen - Apple Valley](https://vivomn.com/)
