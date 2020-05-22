@@ -1,6 +1,6 @@
 ---
 title: Home
-lastmodified: '12:10pm on Thursday, May 21, 2020'
+lastmodified: '12:19pm on Friday, May 22, 2020'
 ---
 # List of Bars and Restaurants
 
@@ -21,7 +21,6 @@ lastmodified: '12:10pm on Thursday, May 21, 2020'
   * Note: "St. Paul's "Big Egg" will remain open"
 * [El Burrito - South Minneapolis](http://elburritompls.com/)
   * Note: The St Paul location, *El Burrito Mercado*, remains open.
-* [Flagsmash - All](https://twincities.eater.com/2020/2/25/21152748/flagsmash-closing-graze-la-dona-cervaceria-minneapolis)
 * [Ginger Hop - St. Anthony Main](https://www.gingerhop.com/ginger-hop-honey-closing-march-28th-2020/)
 * [Godfather's Pizza - Alberta Lea](https://www.kimt.com/content/news/Godfathers-Pizza-closed-in-Albert-Lea-569383881.html)
 * [The Grind - Bloomington](https://www.yelp.com/biz/the-grind-bloomington)
