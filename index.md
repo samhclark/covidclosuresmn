@@ -21,6 +21,7 @@ lastmodified: '4:31pm on Friday, May 22, 2020'
   * Note: "St. Paul's "Big Egg" will remain open"
 * [El Burrito - South Minneapolis](http://elburritompls.com/)
   * Note: The St Paul location, *El Burrito Mercado*, remains open.
+* [Fig + Farro - Uptown](https://minnesota.cbslocal.com/2020/05/24/fig-farro-in-uptown-to-permanently-close/)
 * [Ginger Hop - St. Anthony Main](https://www.gingerhop.com/ginger-hop-honey-closing-march-28th-2020/)
 * [Godfather's Pizza - Alberta Lea](https://www.kimt.com/content/news/Godfathers-Pizza-closed-in-Albert-Lea-569383881.html)
 * [The Grind - Bloomington](https://www.yelp.com/biz/the-grind-bloomington)
