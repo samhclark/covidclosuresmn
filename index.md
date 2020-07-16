@@ -1,6 +1,6 @@
 ---
 title: Home
-lastmodified: '4:31pm on Friday, May 22, 2020'
+lastmodified: '6:22pm on Thursday, July 16, 2020'
 ---
 # List of Bars and Restaurants
 
@@ -44,7 +44,7 @@ lastmodified: '4:31pm on Friday, May 22, 2020'
 
 # List of Retailers
 
-* Empty
+* [The Hub Bike Co-Op - West Bank](https://www.thehubbikecoop.org/articles/west-bank-pg293.htm)
 
 # Other
 
