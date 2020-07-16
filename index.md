@@ -1,10 +1,11 @@
 ---
 title: Home
-lastmodified: '6:22pm on Thursday, July 16, 2020'
+lastmodified: '6:29pm on Thursday, July 16, 2020'
 ---
 # List of Bars and Restaurants
 
 * [4 Bells - Loring Park](https://twincities.eater.com/2020/5/1/21244132/4-bells-minneapolis-closed-loring-park)
+* [508 - Downtown Minneapolis](https://www.facebook.com/508mpls/posts/3325447407506005)
 * [A Cupcake Social - South Minneapolis](https://twincities.eater.com/2020/5/18/21262624/a-cupcake-social-closing-minneapolis)
 * [Bachelor Farmer - North Loop](https://thebachelorfarmer.com/)
 * [Bar Luchador - University Village](http://www.barluchador.com/)
