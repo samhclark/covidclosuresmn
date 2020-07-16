@@ -1,6 +1,6 @@
 ---
 title: Home
-lastmodified: '6:29pm on Thursday, July 16, 2020'
+lastmodified: '6:33pm on Thursday, July 16, 2020'
 ---
 # List of Bars and Restaurants
 
@@ -18,7 +18,7 @@ lastmodified: '6:29pm on Thursday, July 16, 2020'
 * [The Cheese Cave - Faribault](https://www.southernminn.com/faribault_daily_news/news/article_72477ae6-85e5-53e0-a6be-309dba729101.html)
 * [Cleveland Wok - Highland Park](https://www.twincities.com/2020/05/14/cleveland-wok-closed-permanently-st-paul-restaurant/)
 * [Daube's Bakery - Rochester](https://kttc.com/2020/04/16/daubes-bakery-for-sale/)
-* [The Egg & I - LynLake](http://www.citypages.com/restaurants/minneapoliss-egg-and-i-has-closed-for-good/569513071)
+* [The Egg & I - Lyn-Lake](http://www.citypages.com/restaurants/minneapoliss-egg-and-i-has-closed-for-good/569513071)
   * Note: "St. Paul's "Big Egg" will remain open"
 * [El Burrito - South Minneapolis](http://elburritompls.com/)
   * Note: The St Paul location, *El Burrito Mercado*, remains open.
@@ -26,13 +26,14 @@ lastmodified: '6:29pm on Thursday, July 16, 2020'
 * [Ginger Hop - St. Anthony Main](https://www.gingerhop.com/ginger-hop-honey-closing-march-28th-2020/)
 * [Godfather's Pizza - Alberta Lea](https://www.kimt.com/content/news/Godfathers-Pizza-closed-in-Albert-Lea-569383881.html)
 * [The Grind - Bloomington](https://www.yelp.com/biz/the-grind-bloomington)
+* [The Herkimer - Lyn-Lake](https://www.facebook.com/theherkimer/posts/10163745762610483)
 * [Honey - St. Anthony Main](https://www.gingerhop.com/ginger-hop-honey-closing-march-28th-2020/)
 * [Izzy's Ice Cream - St Paul](https://izzysicecream.com/2020/04/28/izzys-ice-cream-st-paul-shop-closing/)
   * Note: The Minneapolis location remains open.
 * [Jo Jo's Rise & Wine - Burnsville](https://www.jojosriseandwine.com/)
 * [Marvel Bar - North Loop](http://www.marvelbar.com/)
 * [Moose & Sadie's - North Loop](https://twincities.eater.com/2020/5/20/21264735/moose-sadies-minneapolis-closed-north-loop)
-* [Muddy Waters - LynLake](https://twincities.eater.com/2020/5/4/21246066/muddy-waters-minneapolis-uptown-closed)
+* [Muddy Waters - Lyn-Lake](https://twincities.eater.com/2020/5/4/21246066/muddy-waters-minneapolis-uptown-closed)
 * [NE Arcade - Northeast](https://twincities.eater.com/2020/4/27/21238398/ne-arcade-domo-ramen-northeast-closed)
 * [Northgate Cafe and Catering - Virginia](https://www.facebook.com/permalink.php?story_fbid=2846483798732663&id=173727492674987&__tn__=-R)
 * [Patrick's Bakery & Cafe - Maple Grove](https://patricksbakerycafe.com/locations/arborlakes/)
