@@ -1,6 +1,6 @@
 ---
 title: Home
-lastmodified: '6:33pm on Thursday, July 16, 2020'
+lastmodified: '6:38pm on Thursday, July 16, 2020'
 ---
 # List of Bars and Restaurants
 
@@ -28,6 +28,8 @@ lastmodified: '6:33pm on Thursday, July 16, 2020'
 * [The Grind - Bloomington](https://www.yelp.com/biz/the-grind-bloomington)
 * [The Herkimer - Lyn-Lake](https://www.facebook.com/theherkimer/posts/10163745762610483)
 * [Honey - St. Anthony Main](https://www.gingerhop.com/ginger-hop-honey-closing-march-28th-2020/)
+* [In Bloom - St. Paul](https://twincities.eater.com/2020/7/7/21316010/st-paul-in-bloom-st-paul-restaurant-closures)
+  * Note: Had to cite Eater for this one, since the owners e-mailed their statement to them. 
 * [Izzy's Ice Cream - St Paul](https://izzysicecream.com/2020/04/28/izzys-ice-cream-st-paul-shop-closing/)
   * Note: The Minneapolis location remains open.
 * [Jo Jo's Rise & Wine - Burnsville](https://www.jojosriseandwine.com/)
