@@ -1,6 +1,6 @@
 ---
 title: Home
-lastmodified: '6:38pm on Thursday, July 16, 2020'
+lastmodified: '6:58pm on Thursday, July 16, 2020'
 ---
 # List of Bars and Restaurants
 
@@ -13,7 +13,7 @@ lastmodified: '6:38pm on Thursday, July 16, 2020'
 * [Burger Jones - Calhoun Village](https://bringmethenews.com/minnesota-lifestyle/burger-jones-in-minneapolis-announces-permanent-closure)
   * Note: "The Burger Jones location in Burnsville will remain open."
 * [Buzzie's Sunrise Cafe - Malmo](https://www.facebook.com/permalink.php?story_fbid=1098483917193450&id=771873796521132&__tn__=-R)
-* [Cabin Coffee Co. - Alberta Lea](https://www.kimt.com/content/news/Two-businesses-closing-in-Albert-Lea-569463741.html)
+* [Cabin Coffee Co. - Albert Lea](https://www.kimt.com/content/news/Two-businesses-closing-in-Albert-Lea-569463741.html)
   * Note: Other Cabin Coffee locations remain open
 * [The Cheese Cave - Faribault](https://www.southernminn.com/faribault_daily_news/news/article_72477ae6-85e5-53e0-a6be-309dba729101.html)
 * [Cleveland Wok - Highland Park](https://www.twincities.com/2020/05/14/cleveland-wok-closed-permanently-st-paul-restaurant/)
@@ -24,7 +24,7 @@ lastmodified: '6:38pm on Thursday, July 16, 2020'
   * Note: The St Paul location, *El Burrito Mercado*, remains open.
 * [Fig + Farro - Uptown](https://minnesota.cbslocal.com/2020/05/24/fig-farro-in-uptown-to-permanently-close/)
 * [Ginger Hop - St. Anthony Main](https://www.gingerhop.com/ginger-hop-honey-closing-march-28th-2020/)
-* [Godfather's Pizza - Alberta Lea](https://www.kimt.com/content/news/Godfathers-Pizza-closed-in-Albert-Lea-569383881.html)
+* [Godfather's Pizza - Albert Lea](https://www.kimt.com/content/news/Godfathers-Pizza-closed-in-Albert-Lea-569383881.html)
 * [The Grind - Bloomington](https://www.yelp.com/biz/the-grind-bloomington)
 * [The Herkimer - Lyn-Lake](https://www.facebook.com/theherkimer/posts/10163745762610483)
 * [Honey - St. Anthony Main](https://www.gingerhop.com/ginger-hop-honey-closing-march-28th-2020/)
