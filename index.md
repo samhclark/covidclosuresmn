@@ -1,6 +1,6 @@
 ---
 title: Home
-lastmodified: '6:58pm on Thursday, July 16, 2020'
+lastmodified: '8:54pm on Wednesday, July 22, 2020'
 ---
 # List of Bars and Restaurants
 
@@ -40,6 +40,7 @@ lastmodified: '6:58pm on Thursday, July 16, 2020'
 * [Northgate Cafe and Catering - Virginia](https://www.facebook.com/permalink.php?story_fbid=2846483798732663&id=173727492674987&__tn__=-R)
 * [Patrick's Bakery & Cafe - Maple Grove](https://patricksbakerycafe.com/locations/arborlakes/)
 * [Pazzaluna - Downtown St. Paul](https://twincities.eater.com/2020/5/18/21261806/pazzaluna-st-paul-morrissey-hospitality-grill-closed)
+* [Popol Vuh - Northeast](https://mspmag.com/eat-and-drink/foodie/rip-popol-vuh-in-nordeast/)
 * [Sleep V's - Northeast](https://twincities.eater.com/2020/4/6/21209048/sleepy-vs-closed-northeast-minneapolis)
 * [Sole Mio Ristorante - Woodbury](https://solemiomn.com/)
 * [The Tomato Vine - Eden Prarie](https://www.facebook.com/TheTomatoVine/photos/a.112938365532339/1511452742347554/)
