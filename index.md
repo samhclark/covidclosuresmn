@@ -1,6 +1,6 @@
 ---
 title: Home
-lastmodified: '8:54pm on Wednesday, July 22, 2020'
+lastmodified: '9:00pm on Wednesday, July 22, 2020'
 ---
 # List of Bars and Restaurants
 
@@ -9,17 +9,19 @@ lastmodified: '8:54pm on Wednesday, July 22, 2020'
 * [A Cupcake Social - South Minneapolis](https://twincities.eater.com/2020/5/18/21262624/a-cupcake-social-closing-minneapolis)
 * [Bachelor Farmer - North Loop](https://thebachelorfarmer.com/)
 * [Bar Luchador - University Village](http://www.barluchador.com/)
+* [Bellecour - Wayzata](https://bellecourrestaurant.com/)
+  * Note: The *Bellecour Bakery Pop Up* at Crooks of Crocus Hill in North Loop remains open.
 * [Bonfire - All](https://bonfirewoodfirecooking.com)
 * [Burger Jones - Calhoun Village](https://bringmethenews.com/minnesota-lifestyle/burger-jones-in-minneapolis-announces-permanent-closure)
   * Note: "The Burger Jones location in Burnsville will remain open."
 * [Buzzie's Sunrise Cafe - Malmo](https://www.facebook.com/permalink.php?story_fbid=1098483917193450&id=771873796521132&__tn__=-R)
 * [Cabin Coffee Co. - Albert Lea](https://www.kimt.com/content/news/Two-businesses-closing-in-Albert-Lea-569463741.html)
-  * Note: Other Cabin Coffee locations remain open
+  * Note: Other Cabin Coffee locations remain open.
 * [The Cheese Cave - Faribault](https://www.southernminn.com/faribault_daily_news/news/article_72477ae6-85e5-53e0-a6be-309dba729101.html)
 * [Cleveland Wok - Highland Park](https://www.twincities.com/2020/05/14/cleveland-wok-closed-permanently-st-paul-restaurant/)
 * [Daube's Bakery - Rochester](https://kttc.com/2020/04/16/daubes-bakery-for-sale/)
 * [The Egg & I - Lyn-Lake](http://www.citypages.com/restaurants/minneapoliss-egg-and-i-has-closed-for-good/569513071)
-  * Note: "St. Paul's "Big Egg" will remain open"
+  * Note: "St. Paul's "Big Egg" will remain open."
 * [El Burrito - South Minneapolis](http://elburritompls.com/)
   * Note: The St Paul location, *El Burrito Mercado*, remains open.
 * [Fig + Farro - Uptown](https://minnesota.cbslocal.com/2020/05/24/fig-farro-in-uptown-to-permanently-close/)
