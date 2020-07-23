@@ -1,6 +1,6 @@
 ---
 title: Home
-lastmodified: '9:00pm on Wednesday, July 22, 2020'
+lastmodified: '9:08pm on Wednesday, July 22, 2020'
 ---
 # List of Bars and Restaurants
 
@@ -35,6 +35,7 @@ lastmodified: '9:00pm on Wednesday, July 22, 2020'
 * [Izzy's Ice Cream - St Paul](https://izzysicecream.com/2020/04/28/izzys-ice-cream-st-paul-shop-closing/)
   * Note: The Minneapolis location remains open.
 * [Jo Jo's Rise & Wine - Burnsville](https://www.jojosriseandwine.com/)
+* [Keegan's Irish Pub - Northeast](https://twitter.com/keeganspub/status/1277693689997885440)
 * [Marvel Bar - North Loop](http://www.marvelbar.com/)
 * [Moose & Sadie's - North Loop](https://twincities.eater.com/2020/5/20/21264735/moose-sadies-minneapolis-closed-north-loop)
 * [Muddy Waters - Lyn-Lake](https://twincities.eater.com/2020/5/4/21246066/muddy-waters-minneapolis-uptown-closed)
