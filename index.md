@@ -60,7 +60,7 @@ lastmodified: '9:08pm on Wednesday, July 22, 2020'
 
 # Criteria
 
-Why are some businesses listed, but others are not? 
+**Why are some businesses listed, but others are not?** 
 If the business closed before March 17, 2020, then it probably won't be on this list. Gov. Walz [first executive order regarding COVID-19 (PDF)](https://mn.gov/governor/assets/2020_03_16_EO_20_04_Bars_Restaurants_tcm1055-423380.pdf) went into effect on March 17 at 5:00pm. For example, [Dulceria Bakery](https://dulceriabakery.com/) closed on February 22. The closure notice makes no mention of COVID and it was before businesses were impacted by any executive order. 
 
 There can be exceptions to this rule, however. Take Cleveland Wok. Cleveland Wok closed in February **2019** due to a fire, however it was going through a remodel and scheduled to open in March, but because of the executive order it did not reopen. Then in May, the owner announced that it will be permanently closed. This restaurant *would have reopened* had it not been for the COVID-19 outbreak, so its permanent closure can be attributed to the outbreak. (It helps that, in the [linked article above](https://www.twincities.com/2020/05/14/cleveland-wok-closed-permanently-st-paul-restaurant/), the owner is quoted placing some blame on COVID-19.)
