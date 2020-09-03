@@ -1,6 +1,6 @@
 ---
 title: Home
-lastmodified: '9:08pm on Wednesday, July 22, 2020'
+lastmodified: '12:36am on Thursday, Sept 3, 2020'
 ---
 # List of Bars and Restaurants
 
@@ -14,6 +14,7 @@ lastmodified: '9:08pm on Wednesday, July 22, 2020'
 * [Bonfire - All](https://bonfirewoodfirecooking.com)
 * [Burger Jones - Calhoun Village](https://bringmethenews.com/minnesota-lifestyle/burger-jones-in-minneapolis-announces-permanent-closure)
   * Note: "The Burger Jones location in Burnsville will remain open."
+* [Butcher & The Boar - Downtown Minneapolis](https://mspmag.com/eat-and-drink/foodie/rip-butcher-the-boar/)
 * [Buzzie's Sunrise Cafe - Malmo](https://www.facebook.com/permalink.php?story_fbid=1098483917193450&id=771873796521132&__tn__=-R)
 * [Cabin Coffee Co. - Albert Lea](https://www.kimt.com/content/news/Two-businesses-closing-in-Albert-Lea-569463741.html)
   * Note: Other Cabin Coffee locations remain open.
@@ -32,8 +33,8 @@ lastmodified: '9:08pm on Wednesday, July 22, 2020'
 * [Honey - St. Anthony Main](https://www.gingerhop.com/ginger-hop-honey-closing-march-28th-2020/)
 * [In Bloom - St. Paul](https://twincities.eater.com/2020/7/7/21316010/st-paul-in-bloom-st-paul-restaurant-closures)
   * Note: Had to cite Eater for this one, since the owners e-mailed their statement to them. 
-* [Izzy's Ice Cream - St Paul](https://izzysicecream.com/2020/04/28/izzys-ice-cream-st-paul-shop-closing/)
-  * Note: The Minneapolis location remains open.
+* [Izzy's Ice Cream - St Paul](https://izzysicecream.com/2020/04/28/izzys-ice-cream-st-paul-shop-closing/) & [Minneapolis](https://kstp.com/minnesota-news/izzys-ice-cream-in-minneapolis-to-close-august-31-aug-25-2020/5839843/)
+  * Note: The St. Paul location closed in April and Minneapolis in August
 * [Jo Jo's Rise & Wine - Burnsville](https://www.jojosriseandwine.com/)
 * [Keegan's Irish Pub - Northeast](https://twitter.com/keeganspub/status/1277693689997885440)
 * [Marvel Bar - North Loop](http://www.marvelbar.com/)
@@ -41,11 +42,15 @@ lastmodified: '9:08pm on Wednesday, July 22, 2020'
 * [Muddy Waters - Lyn-Lake](https://twincities.eater.com/2020/5/4/21246066/muddy-waters-minneapolis-uptown-closed)
 * [NE Arcade - Northeast](https://twincities.eater.com/2020/4/27/21238398/ne-arcade-domo-ramen-northeast-closed)
 * [Northgate Cafe and Catering - Virginia](https://www.facebook.com/permalink.php?story_fbid=2846483798732663&id=173727492674987&__tn__=-R)
+* [Octo Fishbar - Lowertown St Paul](https://www.twincities.com/2020/07/27/st-pauls-octo-fishbar-the-latest-pandemic-restaurant-fatality/)
 * [Patrick's Bakery & Cafe - Maple Grove](https://patricksbakerycafe.com/locations/arborlakes/)
 * [Pazzaluna - Downtown St. Paul](https://twincities.eater.com/2020/5/18/21261806/pazzaluna-st-paul-morrissey-hospitality-grill-closed)
 * [Popol Vuh - Northeast](https://mspmag.com/eat-and-drink/foodie/rip-popol-vuh-in-nordeast/)
 * [Sleep V's - Northeast](https://twincities.eater.com/2020/4/6/21209048/sleepy-vs-closed-northeast-minneapolis)
 * [Sole Mio Ristorante - Woodbury](https://solemiomn.com/)
+* [Surly's Beer Hall - Minneapolis](https://www.twincities.com/2020/09/02/surlys-beer-hall-to-close-indefinitely-nov-2/)
+  * Note: Closing Nov 2
+* [Taco Cat - Minneapolis](https://bringmethenews.com/minnesota-lifestyle/taco-cat-the-latest-twin-cities-restaurant-to-close-for-good)
 * [The Tomato Vine - Eden Prarie](https://www.facebook.com/TheTomatoVine/photos/a.112938365532339/1511452742347554/)
 * [Tonic - Rochester](https://www.medcitybeat.com/news-blog/2020/tonic-wont-reopen)
 * [Vivo Kitchen - Apple Valley](https://vivomn.com/)
@@ -56,7 +61,8 @@ lastmodified: '9:08pm on Wednesday, July 22, 2020'
 
 # Other
 
-* Empty
+* [The Growler - Print Magazine](https://growlermag.com/the-growler-issue-80-august-2020-bars/)
+  * Note: "the August 2020 issue of The Growler Magazine will be the last print issue" leaves open the option for non-print ventures
 
 # Criteria
 
